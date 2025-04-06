@@ -1,10 +1,10 @@
 # GameDev Showcase
 
-This repository contains a collection of games I have created, each located in its own folder. Game are a work-in-progress.
+This repository contains a collection of games I have created, each located in its own folder. Games are a work-in-progress.
 
 ## Folder Structure
 
-Each folder in this repository corresponds to a different game. 
+Each folder in this repository corresponds to a different game.
 
 # Games
 
